@@ -12,3 +12,4 @@ Plan of work
 
 t3 ir labots otrreiz.
 
+Теперь С. Хилькевич дополняет этот файл.
