@@ -8,7 +8,7 @@ Plan of work
 3. Commite.
 4. Push.
 5. Clone
-
-
+ 
+7...
 t3 ir labots otrreiz.
 
